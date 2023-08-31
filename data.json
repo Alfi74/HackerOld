@@ -1,0 +1,83 @@
+[
+    {
+      "id": 2,
+      "name": "Piotr",
+      "title": "The Beer King",
+      "avatar": "src/piotr.png",
+      "description": "Der Bierprofie. Bezahlung nur in Hecktoliter. Macht jeden Unsinn mit.",
+      "profession": "Multiman"
+    },
+    {
+      "id": 3,
+      "name": "Sven",
+      "title": "DIV-Master",
+      "avatar": "src/sven.png",
+      "description": "Der DIV-Terminator. Manchmal muß er so lange über was nachdenken das ihm schon dabe die Haare ausgefallen sind.",
+      "profession": "Divtinator"
+    },
+    {
+      "id": 4,
+      "name": "Sarah",
+      "title": "Guardian",
+      "avatar": "src/sarah.png",
+      "description": "Sie behält fast immer den Überblick. Ihre Nerven sind aus Stahl, geht ja nicht anderst bei dieser Gruppe",
+      "profession": "Hero Woman"
+    },
+    {
+      "id": 5,
+      "name": "Marta",
+      "title": "The Hearty",
+      "avatar": "src/marta.png",
+      "description": "Offen und freundlich. Eine sehr kreative Seele. Gutes Auge für das wesentliche.",
+      "profession": "Eminence"
+    },
+    {
+      "id": 1,
+      "name": "Alfi",
+      "title": "Master of Disaster",
+      "avatar": "src/alfi.png",
+      "description":"Als Italiener Kocht keine besser als Alfi Spaghetti-Code.",
+      "profession": "Gandalf der Graue"
+    },
+    {
+      "id": 6,
+      "name": "Anh",
+      "title": "Fast forward",
+      "avatar": "src/anh.png",
+      "description": "Sie hat alles fest im Griff, sehr fordernt und immer zu neuen Taten bereit. Sie reist einen mit.",
+      "profession": "Guide"
+    },
+    {
+      "id": 7,
+      "name": "Phil",
+      "title": "Pixel-Held",
+      "avatar": "src/phil.png",
+      "description": "'Es könnte noch etwas mehr UX rein' sind seine Lieblinsworte. Durch seine 'Grüne Art' ist er überall beliebt.",
+      "profession": "UX-Master"
+    },
+    {
+      "id": 8,
+      "name": "Mo",
+      "title": "Schweizer-Taschenmasser",
+      "avatar": "src/mo.png",
+      "description": "Vielseitig wie ein Schweizer-Taschenmesser. Er hört erst auf wenn eine Lösung da ist oder es einfach passend gemacht wird.",
+      "profession": "Mr. Can do almost anything "
+    },
+    {
+      "id": 9,
+      "name": "Onur",
+      "title": "Der Ruhige",
+      "avatar": "src/onur.png",
+      "description": "Er strahlt eine Ruhe und gelassenheit aus die nie langweilig wird. Wie schon erwähnt braucht man das bei dieser Klasse auch.",
+      "profession": "Mr. Calm Hand"
+    },
+    {
+      "id": 10,
+      "name": "Timo",
+      "title": "Challenge me",
+      "avatar": "src/timo.png",
+      "description": "Professionell zieht er das Ding durch und geht gerne über Tausen zeilen Code auch Umwege. Sein Motto ist 'Der Weg ist das Ziel'.",
+      "profession": "Mr. Everything will be fine"
+    }
+  ]
+  
